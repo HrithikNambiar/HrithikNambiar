@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 
 ![Visitor Count](https://profile-counter.glitch.me/HrithikNambiar/count.svg)
 
+
+<img align="left" alt="Hrithik's Github Stats" src="https://github-readme-stats.vercel.app/api?username=HrithikNambiar&show_icons=true&hide_border=true" />
 -->
 ### Hi there, I'm Hrithik 👋
 
@@ -45,7 +47,6 @@ Here are some ideas to get you started:
 ---
 <br>
 
-<img align="left" alt="Hrithik's Github Stats" src="https://github-readme-stats.vercel.app/api?username=HrithikNambiar&show_icons=true&hide_border=true" />
 
 [website]:https://hrithiknambiar.github.io/
 [twitter]: https://twitter.com/nambiar_hrithik
