@@ -15,6 +15,11 @@ Here are some ideas to get you started:
 
 ![Visitor Count](https://profile-counter.glitch.me/HrithikNambiar/count.svg)
 
+- 🌱 I’m currently learning.
+- 👯 I’m looking to collaborate with other researchers and creators
+- 🥅 2020 Goals: Learn
+
+
 
 <img align="left" alt="Hrithik's Github Stats" src="https://github-readme-stats.vercel.app/api?username=HrithikNambiar&show_icons=true&hide_border=true" />
 -->
@@ -22,9 +27,6 @@ Here are some ideas to get you started:
 
 
 ## I'm a Computer Science sophomore at BITS Goa.
-- 🌱 I’m currently learning.
-- 👯 I’m looking to collaborate with other researchers and creators
-- 🥅 2020 Goals: Learn
 
 ### Connect with me:
 
