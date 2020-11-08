@@ -19,10 +19,10 @@ Here are some ideas to get you started:
 ### Hi there, I'm Hrithik 👋
 
 
-## I'm a Computer Science sophomore BITS Goa.
+## I'm a Computer Science sophomore at BITS Goa.
 - 🌱 I’m currently learning 
 - 👯 I’m looking to collaborate with other researchers and creators
-- 🥅 2020 Goals: Contribute to Open Source.
+- 🥅 2020 Goals: Learn
 - ⚡ Fun fact: 
 
 ### Connect with me:
