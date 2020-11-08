@@ -20,10 +20,9 @@ Here are some ideas to get you started:
 
 
 ## I'm a Computer Science sophomore at BITS Goa.
-- 🌱 I’m currently learning 
+- 🌱 I’m currently learning.
 - 👯 I’m looking to collaborate with other researchers and creators
 - 🥅 2020 Goals: Learn
-- ⚡ Fun fact: 
 
 ### Connect with me:
 
