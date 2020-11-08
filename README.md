@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 <img align="left" alt="Hrithik's Github Stats" src="https://github-readme-stats.vercel.app/api?username=HrithikNambiar&show_icons=true&hide_border=true" />
 -->
-### Hi there, I'm Hrithik 👋
+### Hi there 👋
 
 
 ## I'm a Computer Science sophomore at BITS Goa.
