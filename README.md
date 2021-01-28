@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 
-[Visitor Count](https://profile-counter.glitch.me/HrithikNambiar/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/HrithikNambiar/count.svg)
 
 - 🌱 I’m currently learning.
 - 👯 I’m looking to collaborate with other researchers and creators
