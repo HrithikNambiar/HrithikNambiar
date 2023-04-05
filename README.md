@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 ### Hey there! 👋
 
 
-## I'm a Computer Science undegrad at BITS Goa.
+## I'm a Computer Science undergrad at BITS Goa.
 
 ### Connect with me:
 
