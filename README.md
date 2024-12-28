@@ -27,9 +27,6 @@ Here are some ideas to get you started:
 -->
 ### Hey there! 👋
 
-
-## I'm a Computer Science undergraduate at BITS Goa.
-
 ### Connect with me:
 
 [<img align="left" alt="https://hrithiknambiar.github.io/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
